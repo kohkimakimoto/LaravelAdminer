@@ -7,7 +7,7 @@ It's a embedded [adminer](http://www.adminer.org/) in Laravel4 application.
 Add dependency in `composer.json`
 
 ```json
-"require-dev": {
+"require": {
     "kohkimakimoto/laravel-adminer": "0.*"
 }
 ```
