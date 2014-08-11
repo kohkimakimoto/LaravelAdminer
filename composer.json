@@ -1,6 +1,6 @@
 {
     "name": "kohkimakimoto/laravel-adminer",
-    "description": "Embedded Adminer in laravel application.",
+    "description": "It's a embedded adminer in laravel application.",
     "license": "MIT",
     "authors": [
         {
