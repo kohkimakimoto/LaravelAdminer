@@ -12,7 +12,7 @@ Add dependency in `composer.json`
 }
 ```
 
-Run `composer upadte` command.
+Run `composer update` command.
 
 ```
 $ composer update
