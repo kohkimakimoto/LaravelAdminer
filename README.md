@@ -4,6 +4,13 @@ It's a embedded [adminer](http://www.adminer.org/) in Laravel4 application.
 
 ## Installation
 
+Run `composer require` command
+```
+$ composer require kohkimakimoto/laravel-adminer
+```
+
+OR
+
 Add dependency in `composer.json`
 
 ```json
@@ -12,7 +19,7 @@ Add dependency in `composer.json`
 }
 ```
 
-Run `composer update` command.
+and run `composer upadte` command.
 
 ```
 $ composer update
